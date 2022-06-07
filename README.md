@@ -1,6 +1,6 @@
 
 <img width="100%" height="300px" src="https://blogs.iadb.org/caribbean-dev-trends/wp-content/uploads/sites/34/2017/12/Blockchain1.jpg">
-<h1 align="center">Hi 👋, I'm Vinod Kumar Yadav</h1>
+<h1 align="center"> Vinod Kumar Yadav</h1>
 <h3 align="center">a passionate software developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodgi&label=Profile%20views&color=0e75b6&style=flat" alt="vinodgi" /> </p>
